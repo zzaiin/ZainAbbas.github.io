@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     particlesJS('particles-js', {
         "particles": {
             "number": {
-                "value": 100,
+                "value": 150,
                 "density": {
                     "enable": true,
                     "value_area": 800
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     "duration": 0.4
                 },
                 "push": {
-                    "particles_nb": 4
+                    "particles_nb": 5
                 },
                 "remove": {
                     "particles_nb": 2
